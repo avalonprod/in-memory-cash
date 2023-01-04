@@ -4,7 +4,7 @@ cash - is a simple and fast library written in go and is used to hash any data.
 
 Download: `go get -u github.com/avalonprod/in-memory-cash`.
 
-#### Методы
+#### Methods
 > Set 
 ```go
 cash.Set(key, data)
