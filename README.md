@@ -54,4 +54,4 @@ func main() {
 	}
 }
 ```
-#### License: 
+#### <a href="https://github.com/avalonprod/in-memory-cash/blob/main/LICENSE">License</a> 
