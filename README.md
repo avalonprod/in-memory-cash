@@ -1,4 +1,4 @@
-## Fast and simple library written in go for hashing.
+## Fast and simple library written in go for cashing.
 ___
 cash - is a simple and fast library written in go and is used to hash any data.
 
